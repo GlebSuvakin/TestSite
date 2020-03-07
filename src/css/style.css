@@ -51,6 +51,7 @@ body {
 
 .body__block {
     display: flex;
+    background-color: black;
     background-image: url(../img/image.png);
 }
 
@@ -114,9 +115,9 @@ body {
     margin-left: -465px;
 }
 
-.body__block .body__social-media {
+.body__block .body__footer {
     display: flex;
     height: 105px;
     background-color: black;
-    margin-top: 641px;
+    margin-top: 600px;
 }
